@@ -1,6 +1,6 @@
-# Transformer_From_Scratch
 
-# GPT From Scratch — Implementation, Scaling, and Component Ablation
+
+#  Transformer From Scratch — Implementation, Scaling, and Component Ablation
 
 A decoder-only transformer implemented from first principles in PyTorch: scaled
 dot-product attention, causal masking, multi-head decomposition, learned
