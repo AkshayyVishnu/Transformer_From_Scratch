@@ -382,5 +382,5 @@ unsupported by current PyTorch builds), Internet = On. Use *Save & Run All
 ```
 gpt.py                   full-scale model + training loop
 ablations.py             8-configuration ablation harness
-ablation_results.json    raw results including loss curves
+Results.md
 ```
