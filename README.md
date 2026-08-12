@@ -377,7 +377,7 @@ unsupported by current PyTorch builds), Internet = On. Use *Save & Run All
 
 ---
 
-## 11. Files
+## 10. Files
 
 ```
 gpt.py                   full-scale model + training loop
